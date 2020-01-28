@@ -1,0 +1,10 @@
+div {
+  width: 100px;
+  height: 100px;
+  background-color: orangered;
+  border-radius: 25%;
+  border: groove 20px;
+  background-image: url("../../001-challenges/challenge-5/puppy.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}

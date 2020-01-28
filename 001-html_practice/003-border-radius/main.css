@@ -1,0 +1,23 @@
+div {
+    width: 200px;
+    height: 200px;
+    border: 1px solid purple;
+    border-radius: 100%;
+    background-image: url("../001-challenges/challenge-5/puppy.jpg");
+}
+
+img {
+    border: 10px groove orangered;
+    border-radius: 100%;
+}
+.one {
+    border: 10px dashed orangered;
+}
+
+.two {
+    border: 10px dotted orangered;
+}
+
+.three {
+    border: 10px double orangered;
+}
